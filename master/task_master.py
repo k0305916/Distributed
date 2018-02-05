@@ -44,6 +44,3 @@ for i in range(10):
 #关闭
 manager.shutdown()
 print('master exit.')
-
-
-#git test
